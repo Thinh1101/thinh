@@ -1,5 +1,5 @@
 # thinh
-# vip pro
+
 Công ty Hồi Sinh Khủng Long là một tổ chức chuyên về nghiên cứu và tái tạo các loài khủng long đã tuyệt chủng. Chúng tôi tập trung vào việc khai quật và phục hồi các hóa thạch khủng long, sau đó sử dụng công nghệ tiên tiến để tạo ra những bản sao sống của chúng.
 
 Công ty chúng tôi có đội ngũ nhà khoa học, nhà nghiên cứu và chuyên gia có kinh nghiệm trong lĩnh vực khủng long. Chúng tôi sử dụng các phương pháp và công nghệ tiên tiến như phân tích DNA cổ, tái tạo di truyền và kỹ thuật sinh học để tái tạo các loài khủng long đã tuyệt chủng.
