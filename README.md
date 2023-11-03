@@ -7,7 +7,7 @@
 
 **1.2.Mục tiêu**
 
-  -Tạo ra một trang web bán hàng chuyên nghiệp hỗ trợ cho người dùng mua sắm điện thoại trực tuyến.
+-Tạo ra một trang web bán hàng chuyên nghiệp hỗ trợ cho người dùng mua sắm điện thoại trực tuyến.
 -Cung cấp đầy đủ thông tin về sản phẩm đến khách hàng, bao gồm thông số kỹ thuật, giá cả, hình ảnh và đánh giá từ người sử dụng.
 -Tối đa hoá tiện ích khách hàng như cho phép người dùng so sánh thông số và giá cả của các sản phẩm, cung cấp dịch vụ giao hàng, thanh toán và hỗ trợ sau khi mua hàng.
 
@@ -17,7 +17,7 @@
 
 **1.3.Nội dung thực hiện**
 
--Phân tích yêu cầu khách hàng
+-Phân tích yêu cầu khách hàng.
 -Thiết kế giao diện trang web: Thiết kế giao diện trang web để thu hút người dùng và giúp họ có trải nghiệm mua sắm trực tuyến tốt nhất.
 -Xây dựng hệ thống quản lý sản phẩm: Sắp xếp và quản lý thông tin sản phẩm, bao gồm giá cả, mô tả sản phẩm và hình ảnh.
 -Xây dựng hệ thống quản lý đơn hàng: Tạo ra một hệ thống quản lý đơn hàng hiệu quả để giúp việc xử lý đơn hàng dễ dàng và nhanh chóng.
