@@ -1,4 +1,4 @@
-![image](https://github.com/Thinh1101/thinh/assets/147807734/8cbc1aa4-69d6-49ff-82ea-0aef2e9773e8)
+
 ## **Web bán điện thoại online**
 **1.1.Lý do thực hiện đề tài**
 - Hiện nay kinh tế số và mô hình kinh doanh trực tuyến đang phát triển mạnh mẽ, việc  xây dựng hệ thống bán điện thoại trực tuyến là một lựa chọn phù hợp và hợp lý để đáp ứng nhu cầu của người tiêu dùng hiện nay. Thị trường điện thoại thông minh hiện nay đang phát triển rất nhanh và có khối lượng mua bán lớn, do đó việc tạo ra một nền tảng bán hàng điện thoại trực tuyến sẽ giúp cho việc kinh doanh của cửa hàng trở nên hiệu quả hơn.
