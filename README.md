@@ -37,6 +37,8 @@
 
 **1.5 Giao diện**
 
+<img src="https://chuyennghiep.vn/upload/images/top-mau-giao-dien-web-ban-dien-thoai-dep-gia-re-12.png"
+
 
 
                                                              
