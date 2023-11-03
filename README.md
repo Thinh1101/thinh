@@ -58,6 +58,24 @@
 
 ![image](https://github.com/Thinh1101/thinh/assets/147807734/a0a4ca9b-7120-408e-b73b-072d20c689c1)
 
+-Giao diện chi tiết sản phẩm
+
+![image](https://github.com/Thinh1101/thinh/assets/147807734/fdf2c3a7-e9f2-42b7-803c-6bd205411253)
+
+-Giao diện giỏ hàng
+
+![image](https://github.com/Thinh1101/thinh/assets/147807734/f58feffa-af1d-4d1f-9800-bd073b3d405b)
+
+-Giao diện thanh toán
+
+![image](https://github.com/Thinh1101/thinh/assets/147807734/06f24b98-a89e-49d7-a8a8-08c216bdc504)
+
+![image](https://github.com/Thinh1101/thinh/assets/147807734/8d2eaf4b-0b0c-4f43-93b1-19f1963db95a)
+
+
+
+
+
 
 
 
