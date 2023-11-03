@@ -31,11 +31,11 @@
 
 -Giám sát và phân tích dữ liệu: Theo dõi số liệu, đánh giá hiệu quả của chiến dịch và cải thiện để đảm bảo sự thành công của hệ thống bán điện thoại online.
 
-**Thành viên**
+**1.4 Thành viên**
 - Võ Đức Thịnh.
 - Lê Công Tuấn Kiệt.
 
-**Giao diện**
+**1.5 Giao diện**
 
 
 
