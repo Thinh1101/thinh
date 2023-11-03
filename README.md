@@ -35,7 +35,7 @@
 - Võ Đức Thịnh.
 - Lê Công Tuấn Kiệt.
 
-**1.5 Giao diện**
+**1.5 Giao diện chính**
 
 -Giao diện đăng nhập
 
@@ -48,6 +48,17 @@
 
 
 ![image](https://github.com/Thinh1101/thinh/assets/147807734/199f8cc7-cb4e-4404-b51d-6c8656130182)
+
+
+-Giao diện trang chủ
+
+![image](https://github.com/Thinh1101/thinh/assets/147807734/d4afa016-a0a9-4374-b737-ef510ffdc753)
+
+-Giao diện thông tin sản phẩm
+
+![image](https://github.com/Thinh1101/thinh/assets/147807734/a0a4ca9b-7120-408e-b73b-072d20c689c1)
+
+
 
 
 
