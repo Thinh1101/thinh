@@ -1,4 +1,4 @@
-
+![image](https://github.com/Thinh1101/thinh/assets/147807734/8cbc1aa4-69d6-49ff-82ea-0aef2e9773e8)
 ## **Web bán điện thoại online**
 **1.1.Lý do thực hiện đề tài**
 - Hiện nay kinh tế số và mô hình kinh doanh trực tuyến đang phát triển mạnh mẽ, việc  xây dựng hệ thống bán điện thoại trực tuyến là một lựa chọn phù hợp và hợp lý để đáp ứng nhu cầu của người tiêu dùng hiện nay. Thị trường điện thoại thông minh hiện nay đang phát triển rất nhanh và có khối lượng mua bán lớn, do đó việc tạo ra một nền tảng bán hàng điện thoại trực tuyến sẽ giúp cho việc kinh doanh của cửa hàng trở nên hiệu quả hơn.
@@ -57,6 +57,21 @@
 -Giao diện thông tin sản phẩm
 
 ![image](https://github.com/Thinh1101/thinh/assets/147807734/a0a4ca9b-7120-408e-b73b-072d20c689c1)
+
+-Giao diện quản lý tài khoản 
+
+![image](https://github.com/Thinh1101/thinh/assets/147807734/f2b80d69-4be4-47a4-9974-60334abe1dbd)
+
+-Giao diện quản lý khách hàng 
+
+![image](https://github.com/Thinh1101/thinh/assets/147807734/bdeb8204-3cf1-4b3c-affe-15010a6aa369)
+
+-Giao diện loại sản phẩm
+
+![image](https://github.com/Thinh1101/thinh/assets/147807734/08545512-edf0-4496-967d-f09bd18a95e3)
+
+
+
 
 
 
