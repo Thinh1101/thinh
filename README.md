@@ -5,7 +5,7 @@
 -Bên cạnh đó, hệ thống bán điện thoại online còn mang lại nhiều tiện ích cho khách hàng. Khách hàng có thể chọn mua sản phẩm ngay tại nhà mà không phải di chuyển đến cửa hàng để mua hàng. Họ có thể so sánh giá cả, kiểm tra đặc tính kỹ thuật của sản phẩm và đặt hàng ngay một cách nhanh chóng và thuận tiện. Bên cạnh đó, khách hàng còn được hưởng những chính sách giảm giá hấp dẫn, cùng với sự đảm bảo về chất lượng sản phẩm và dịch vụ sau bán hàng.
 - Từ những lý do trên, việc xây dựng hệ thống bán điện thoại trực tuyến là một lựa chọn rất cần thiết và đúng đắn cho cửa hàng trong lĩnh vực bán lẻ hiện nay.
 
-   **1.2.Mục tiêu**
+**1.2.Mục tiêu**
   -Tạo ra một trang web bán hàng chuyên nghiệp hỗ trợ cho người dùng mua sắm điện thoại trực tuyến.
 -Cung cấp đầy đủ thông tin về sản phẩm đến khách hàng, bao gồm thông số kỹ thuật, giá cả, hình ảnh và đánh giá từ người sử dụng.
 -Tối đa hoá tiện ích khách hàng như cho phép người dùng so sánh thông số và giá cả của các sản phẩm, cung cấp dịch vụ giao hàng, thanh toán và hỗ trợ sau khi mua hàng.
