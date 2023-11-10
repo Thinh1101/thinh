@@ -1,6 +1,7 @@
 
 ## **Web bán điện thoại online**
-**1.1.giới thiệu đề tài**
+**1.1.Giới thiệu đề tài**
+
 -Đề tài "Web Bán Điện Thoại" nhằm xây dựng một trang web chuyên về bán điện thoại di động, tạo ra một nền tảng mua sắm trực tuyến tiện lợi và đáng tin cậy cho người dùng. Trang web này sẽ cung cấp một loạt các sản phẩm điện thoại từ các thương hiệu nổi tiếng, cho phép người dùng tìm kiếm, so sánh và mua sắm theo nhu cầu và ngân sách của mình.
 
 
@@ -9,19 +10,20 @@
 ![image](https://github.com/Thinh1101/thinh/assets/147807734/89761e7d-1599-4be6-8469-3d0163e90524)
 
 
-**1.2.Mục tiêu**
 
--Tạo ra một trang web bán hàng chuyên nghiệp hỗ trợ cho người dùng mua sắm điện thoại trực tuyến.
--Cung cấp đầy đủ thông tin về sản phẩm đến khách hàng, bao gồm thông số kỹ thuật, giá cả, hình ảnh và đánh giá từ người sử dụng.
--Tối đa hoá tiện ích khách hàng như cho phép người dùng so sánh thông số và giá cả của các sản phẩm, cung cấp dịch vụ giao hàng, thanh toán và hỗ trợ sau khi mua hàng.
 
--Tăng trải nghiệm mua sắm cho khách hàng bằng cách cung cấp những sản phẩm mới nhất cùng với những chương trình khuyến mãi hấp dẫn.
--Đảm bảo tính bảo mật và an toàn tuyệt đối cho thông tin khách hàng khi giao dịch trực tuyến.
--Xây dựng và phát triển danh mục sản phẩm đa dạng, đáp ứng nhu cầu của người tiêu dùng.
+**1.2 Thành viên**
+- Võ Đức Thịnh.
+- Lê Công Tuấn Kiệt.
 
-**1.3.Nội dung thực hiện**
+**1.3 Công nghệ sử dụng**
+- Github
+- SQLServer
+- Visual Studio
 
--Phân tích yêu cầu khách hàng.
+**1.4 Những việc đã làm được**
+
+-Phân tích yêu cầu khách hàng
 
 -Thiết kế giao diện trang web: Thiết kế giao diện trang web để thu hút người dùng và giúp họ có trải nghiệm mua sắm trực tuyến tốt nhất.
 
@@ -33,49 +35,13 @@
 
 -Tối ưu hóa trang web: Tối ưu hóa website trên các công cụ tìm kiếm để thu hút nhiều khách hàng hơn.
 
--Giám sát và phân tích dữ liệu: Theo dõi số liệu, đánh giá hiệu quả của chiến dịch và cải thiện để đảm bảo sự thành công của hệ thống bán điện thoại online.
-
-**1.4 Thành viên**
-- Võ Đức Thịnh.
-- Lê Công Tuấn Kiệt.
-
-**1.5 Giao diện chính**
-
--Giao diện đăng nhập
+-Giám sát và phân tích dữ liệu: Theo dõi số liệu, đánh giá hiệu quả của chiến dịch và cải thiện để đảm bảo sự thành công của hệ thống bán điện thoại online
 
 
+**1.5 Hướng phát triển**
 
-![image](https://github.com/Thinh1101/thinh/assets/147807734/02aa5497-2191-44aa-bf21-5b92ddeaec6b)
-
-
--Giao diện Đăng ký
-
-
-![image](https://github.com/Thinh1101/thinh/assets/147807734/199f8cc7-cb4e-4404-b51d-6c8656130182)
-
-
--Giao diện trang chủ
-
-![image](https://github.com/Thinh1101/thinh/assets/147807734/d4afa016-a0a9-4374-b737-ef510ffdc753)
-
--Giao diện thông tin sản phẩm
-
-![image](https://github.com/Thinh1101/thinh/assets/147807734/a0a4ca9b-7120-408e-b73b-072d20c689c1)
-
--Giao diện quản lý tài khoản 
-
-![image](https://github.com/Thinh1101/thinh/assets/147807734/f2b80d69-4be4-47a4-9974-60334abe1dbd)
-
--Giao diện quản lý khách hàng 
-
-![image](https://github.com/Thinh1101/thinh/assets/147807734/bdeb8204-3cf1-4b3c-affe-15010a6aa369)
-
--Giao diện loại sản phẩm
-
-![image](https://github.com/Thinh1101/thinh/assets/147807734/08545512-edf0-4496-967d-f09bd18a95e3)
-
-
-
+- Cải thiện những chức năng đã làm được.
+- Tạo ra nhiều chức năng mới để trang web hoàn thiện hơn
 
 
 
